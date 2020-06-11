@@ -18,7 +18,7 @@ python>=3.6\
 
 ## Code Organization
 
-The code is organized as follows:\
+The code is organized as follows:
 - bpp.py (CWBPP algorithm for learning with various inductive signals)
 - run_ner.py (BERT for NER)
 - run_squad.py (BERT for QA)
