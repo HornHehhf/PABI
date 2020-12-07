@@ -1,0 +1,12 @@
+scipy==1.4.1
+matplotlib==2.2.3
+seqeval==0.0.12
+numpy==1.18.1
+torch==1.4.0
+transformers==3.0.2
+torchtext==0.5.0
+tqdm==4.43.0
+apex==0.9.10dev
+ptvsd==4.3.2
+tensorboardX==2.1
+tensorflow_datasets==4.1.0
